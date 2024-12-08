@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';  // Import Link from react-router-dom
 import axios from 'axios';
 import './Signup.css';
 
@@ -116,7 +117,7 @@ const Signup = () => {
                     </button>
                 </form>
                 <p className="redirect-text">
-                    Already have an account? <a href="/signin">Sign in here</a>
+                    Already have an account? <Link to="/signin">Sign in here</Link>  {/* Use Link component */}
                 </p>
             </div>
         </div>
