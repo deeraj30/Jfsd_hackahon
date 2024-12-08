@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jfsd_hackathon/static/css/main.fc51e1a7.css",
+    "main.js": "/Jfsd_hackathon/static/js/main.17367911.js",
+    "static/js/453.5be075eb.chunk.js": "/Jfsd_hackathon/static/js/453.5be075eb.chunk.js",
+    "index.html": "/Jfsd_hackathon/index.html",
+    "main.fc51e1a7.css.map": "/Jfsd_hackathon/static/css/main.fc51e1a7.css.map",
+    "main.17367911.js.map": "/Jfsd_hackathon/static/js/main.17367911.js.map",
+    "453.5be075eb.chunk.js.map": "/Jfsd_hackathon/static/js/453.5be075eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc51e1a7.css",
+    "static/js/main.17367911.js"
+  ]
+}
